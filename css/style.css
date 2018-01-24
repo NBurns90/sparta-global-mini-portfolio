@@ -158,10 +158,11 @@ html, body, div {
   margin: 0px;
 }
 
+/* responsive design changes */
 @media screen and (max-width: 768px) {
   .mainContainer {
     width: 768px;
-    height: 790px;
+    height: 990px;
   }
 
   .middleArticle {
@@ -189,7 +190,5 @@ html, body, div {
     text-align: center;
     margin-right: 35px;
   }
-
-
 
 }
