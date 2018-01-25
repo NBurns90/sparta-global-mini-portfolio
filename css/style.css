@@ -10,14 +10,14 @@ html, body, div {
   margin: 0px auto;
   width: 1000px;
   height: 790px;
-  background: Blue;
+  background: blue;
 }
 
 /*top container style*/
 .topContainer {
   width: inherit;
   height: 15%;
-  background: Green;
+  background: green;
 }
 
 /*nav bar styles*/
@@ -169,6 +169,7 @@ html, body, div {
 
 /* responsive design changes */
 @media screen and (max-width: 768px) {
+
   .mainContainer {
     width: 768px;
     height: 990px;
@@ -184,7 +185,6 @@ html, body, div {
   }
 
   .linksCol {
-    float: right;
     width: inherit;
     height: 200px;
     text-align: center;
